@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/aop.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/core.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/ibatis.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/j2ee.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/javaconfig.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/misc.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/persistCore.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/persistJDO.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/remoting.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/test.zip"/>
+	<classpathentry kind="lib" path="F:/Macha/eclipse/web.zip"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="G:/Anu_java_workspace/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MODERN/Desktop/New folder/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
